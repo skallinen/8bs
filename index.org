@@ -15,7 +15,7 @@
 
 * Digital Strategy +Agency+ Network
 * Strategy, transfor- mation, tech, ux, metrics
-* Help with all the buzzwords!
+* Help with all the buzzwords...
 * Data science, machine learning, AI, blockchains and of course emacs
 
   #+BEGIN_CENTER
