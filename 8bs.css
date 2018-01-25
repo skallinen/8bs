@@ -3,12 +3,28 @@ html {
     font-family: 'NimbusSanLRegular';
     color: white;
     font-size: 1.5vmax;
+    padding-left: 10px;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'NimbusSanLBold', sans-serif;
     color: white;
-    font-size: 8vmax;
+    font-size: 7.5vmax;
+}
+
+b, strong {
+    color: #7BADB6;
+}
+
+u, .underline {
+    color: #A9431E;
+    text-decoration: none;
+}
+
+
+i, em {
+    color: #FFCFBE;
+    font-style: normal;
 }
 
 p {
