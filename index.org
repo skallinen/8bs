@@ -7,28 +7,29 @@
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="./8bs.css"/>
 #+OPTIONS: num:nil
 #+OPTIONS: toc:nil
+#+OPTIONS: ^:nil
 [[file:logoanimation.gif]]
 
   #+BEGIN_CENTER
-@sakalli | info@8-bit-sheep.com 
+[[https://twitter.com/8_bit_sheep][@8_bit_sheep]] | info@8-bit-sheep.com 
   #+END_CENTER
 
-* -Digital Strategy +Agency+ Network
+* Digital Strategy +Agency+ Network
 * We help established brands to create a future worth their past
 * All the while the ground is shifting below their feet
-* _8-bit-sheep_ offers help with strategy, transformation, enterprise innovation, tech, user experience, metrics
+* 8-bit-sheep offers help with strategy, transformation, enterprise innovation, tech, user experience, metrics
 * We help our clients with making sense of all the buzzwords
-* Take *data science*, /machine learning/, AI or _blockchains_
+* Take for instance *data science*, /machine learning/, AI or _blockchains_
 * Using a pool of the most talented professionals in their field, 8-bit-sheep teams are purpose built to fit the clients problems
-* 8-bit-sheep is a Chief Digitial / Data / Technology Officers as a Service
+* 8-bit-sheep is a Chief _Digitial_ / *Data* / /Technology/ Officers as a Service
 #+BEGIN_CENTER
  *Strategy, benchmarking, training, hiring, projects, portfolios*
 #+END_CENTER
 * We've seen things that very few people believed
-* Thriving businesses (sometimes more than a century old) being now agressively disrupted
+* Thriving 150 year old businesses being agressively disrupted
 * The media industry was just the start
 * Your business is probably next
-* We can *help*. We dream of /8-bit-sheep/
+* We can help. We dream of 8-bit-sheep
 
 #+BEGIN_CENTER
   ︵  ︵ \\
@@ -47,7 +48,7 @@
 [[file:sami-by-aino.jpg]]
 
   #+END_CENTER
-The 8-bit-sheep network is powered by Sami, the Bellwether. He is a humanist who dreams of 8-bit sheep. The results of these nightly builds are put into practice at 8-bit-sheep, a consultancy that helps companies with digital transformation and putting data & AI into practice. A seasoned executive with three superpowers — data & AI, visionary leadership, and media — during the past decade he has been helping legacy organisations with digital transformation. For Sami, this transformation is about understanding that everything today is software.
+The 8-bit-sheep network is powered by[[https://twitter.com/sakalli][ Sami, the Bellwether (@sakalli)]]. He is a humanist who dreams of 8-bit sheep. The results of these nightly builds are put into practice at 8-bit-sheep, a consultancy that helps companies with digital transformation and putting data & AI into practice. A seasoned executive with three superpowers — data & AI, visionary leadership, and media — during the past decade he has been helping legacy organisations with digital transformation. For Sami, this transformation is about understanding that everything today is software.
 Sami founded his first professional online media service almost 25 years ago. For three years he worked in the CDO role at Yle, the Finnish Broadcasting Company, where he was responsible for driving the modernisation of the application architecture, and introducing AI and data platforms early to the organisation. Later, he worked in the management team of KSF Media for two years with CDO & CTO responsibilities. Sami has implemented radical transformation programmes both in terms of product development and leadership. Since 3 - 4 years ago, when it became apparent that data & AI are both a question of business hygiene and competitive advantage, the subject has very much been at the centre of Sami’s focus.
 
 * Check out the deck
@@ -83,6 +84,6 @@ course a nod to the classic sci-fi novel by Philip K Dick “Do androids dream o
   #+BEGIN_CENTER
     
 
-@sakalli | info@8-bit-sheep.com 
+[[https://twitter.com/8_bit_sheep][@8_bit_sheep]] | info@8-bit-sheep.com 
   #+END_CENTER
 
